@@ -10,7 +10,7 @@ fasdf
 conflict 2
 conflict 1
 
-
-
 TEST change username
 Other username
+
+Test remove global username
